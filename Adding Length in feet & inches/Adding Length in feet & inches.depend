@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1777914565 source:d:\codes\c program\adding length in feet & inches\main.c
+	<stdio.h>
+	<stdlib.h>
+
